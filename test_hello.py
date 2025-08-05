@@ -1,5 +1,5 @@
 from hello import get_word 
 
 def test_get_word():
-    assert get_word() == "complete word v1"
+    assert get_word() == "complete word v2"
 
